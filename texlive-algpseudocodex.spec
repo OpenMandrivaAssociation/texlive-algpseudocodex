@@ -1,6 +1,6 @@
 Name:		texlive-algpseudocodex
-Version:	64654
-Release:	2
+Version:	66924
+Release:	1
 Summary:	Package for typesetting pseudocode
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/algpseudocodex
