@@ -3,7 +3,7 @@ Version:	66924
 Release:	1
 Summary:	Package for typesetting pseudocode
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/algpseudocodex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/algpseudocodex
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/algpseudocodex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/algpseudocodex.doc.r%{version}.tar.xz
